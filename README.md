@@ -1,3 +1,6 @@
+Replaced by https://github.com/Charmunks/iviedotcodes
+
+
 ## Ivie.codes
 
 Personal website I made to show off projects and where to contact me 
